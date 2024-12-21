@@ -13,10 +13,10 @@ This project focuses on predicting housing prices in California using machine le
 - License
 
 **Project Overview**
-The goal of this project is to create a robust machine learning model capable of predicting housing prices in California. By leveraging data preprocessing, feature engineering, and advanced regression models, this project highlights the core steps in building an end-to-end data science pipeline.
+- The goal of this project is to create a robust machine learning model capable of predicting housing prices in California. By leveraging data preprocessing, feature engineering, and advanced regression models, this project highlights the core steps in building an end-to-end data science pipeline.
 
-**Dataset Sources
-The dataset used for this project is publicly available and contains features about California housing. Below are the columns available in the dataset:
+**Dataset Sources**
+- The dataset used for this project is publicly available and contains features about California housing. Below are the columns available in the dataset:
 
 - longitude: Longitude of the house location
 - latitude: Latitude of the house location
@@ -39,6 +39,17 @@ The dataset used for this project is publicly available and contains features ab
 - Open the California_House_Price_Prediction.ipynb file.
 - Follow the steps in the notebook to load and preprocess the data, train the model, and evaluate its performance.
 
+**Analysis Breakdown**
+I have done the exploratory data analysis and the following manipulations on data.
+
+- Creating new features
+- Removing outliers
+- Transforming skewed features
+
+**Training machine learning algorithms:**
+I have trained varimachine learning algorithms like
+Linear Regression
+
 **Technologies Used**
 - **Python**: The main programming language used for data analysis and machine learning.
 - **Pandas & NumPy**: Libraries for data manipulation and numerical computations.
@@ -51,21 +62,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Data Preprocessing: Preprocess the data by handling missing values, scaling features, and encoding categorical variables.
-
-Model Building: Develop three models for predicting housing prices: VIG, Lasso, and Ridge. These models will leverage the processed data to make accurate predictions.
-
-
-Creating new features
-Removing outliers
-Transforming skewed features
-Checking for multicoliniearity
-2) Training machine learning algorithms:
-Here, I have trained various machine learning algorithms like
-
-Linear Regression
-Ridge Regression
-Support Vector Regression
-Gradient Boosting Regression
-Stacking of various models
