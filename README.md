@@ -40,15 +40,14 @@ This project focuses on predicting housing prices in California using machine le
 - Follow the steps in the notebook to load and preprocess the data, train the model, and evaluate its performance.
 
 **Analysis Breakdown**
-I have done the exploratory data analysis and the following manipulations on data.
+- I have done the exploratory data analysis and the following manipulations on data.
 
 - Creating new features
 - Removing outliers
 - Transforming skewed features
 
 **Training machine learning algorithms:**
-I have trained varimachine learning algorithms like
-Linear Regression
+- Linear Regression
 
 **Technologies Used**
 - **Python**: The main programming language used for data analysis and machine learning.
