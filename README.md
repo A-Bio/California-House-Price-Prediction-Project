@@ -12,7 +12,7 @@ This project focuses on predicting housing prices in California using machine le
 - Contributions
 - License
 
-**Project Overview
+**Project Overview**
 The goal of this project is to create a robust machine learning model capable of predicting housing prices in California. By leveraging data preprocessing, feature engineering, and advanced regression models, this project highlights the core steps in building an end-to-end data science pipeline.
 
 **Dataset Sources
